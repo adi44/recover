@@ -1,0 +1,9 @@
+9	Aditya	java,oops
+roll number	name	subject
+roll number	name	subject
+25000	ADITYA	maths
+roll number	name	subject
+roll number	name	subject
+		
+EMP101	Aditya	java,oops
+AP17110010001	Aditya Dhir	CSE

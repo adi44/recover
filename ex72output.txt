@@ -1,0 +1,8 @@
+9
+asfdw
+faefq
+19	vamsi	cse1
+2	vamsi	cse1
+roll number	name	subject
+AP17110010001	Aditya	CSE
+AP110010001	Aditya	cse

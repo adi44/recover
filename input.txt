@@ -1,0 +1,7 @@
+
+lda# B71H
+add@ A12H
+
+sta# 000H
+
+hlt
